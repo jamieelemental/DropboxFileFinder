@@ -1,0 +1,8 @@
+\\cfre-dc1\Redirection\jamiee\Documents\Visual Studio 2013\Projects\File Finder\File Finder\bin\Debug\File Finder.exe.config
+\\cfre-dc1\Redirection\jamiee\Documents\Visual Studio 2013\Projects\File Finder\File Finder\bin\Debug\File Finder.exe
+\\cfre-dc1\Redirection\jamiee\Documents\Visual Studio 2013\Projects\File Finder\File Finder\bin\Debug\File Finder.pdb
+\\cfre-dc1\Redirection\jamiee\Documents\Visual Studio 2013\Projects\File Finder\File Finder\obj\Debug\File_Finder.Form1.resources
+\\cfre-dc1\Redirection\jamiee\Documents\Visual Studio 2013\Projects\File Finder\File Finder\obj\Debug\File_Finder.Properties.Resources.resources
+\\cfre-dc1\Redirection\jamiee\Documents\Visual Studio 2013\Projects\File Finder\File Finder\obj\Debug\File Finder.csproj.GenerateResource.Cache
+\\cfre-dc1\Redirection\jamiee\Documents\Visual Studio 2013\Projects\File Finder\File Finder\obj\Debug\File Finder.exe
+\\cfre-dc1\Redirection\jamiee\Documents\Visual Studio 2013\Projects\File Finder\File Finder\obj\Debug\File Finder.pdb
